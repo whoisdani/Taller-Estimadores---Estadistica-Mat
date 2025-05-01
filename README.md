@@ -30,6 +30,6 @@ Puedes acceder al documento HTML del taller publicado en RPubs a través del sig
 
 ---
 
-**Autor:** Danier Conde Ramos  
+**Autores:** Danier Conde, Mariana Franco, Eliasib Pájaro, Jerónimo Domínguez, Samuel Bermúdez  
 **Curso:** Estadística Matemática  
 **Universidad del Norte**
